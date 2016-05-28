@@ -1,0 +1,7 @@
+package com.ladl.demo
+
+class Person {
+
+    static constraints = {
+    }
+}
